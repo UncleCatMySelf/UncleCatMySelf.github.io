@@ -11,7 +11,7 @@ github_repo: "https://github.com/UncleCatMySelf/UncleCatMySelf.github.io.git" # 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "想当兽医的程序员"
+sidebar-about-description: "现架构设计（码农）兼创业技术顾问，不羁平庸，热爱开源，杂谈程序人生与不定期干货。 "
 sidebar-avatar: /img/MySelf.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
