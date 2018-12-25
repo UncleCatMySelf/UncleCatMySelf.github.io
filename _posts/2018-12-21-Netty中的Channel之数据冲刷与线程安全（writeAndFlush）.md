@@ -11,9 +11,9 @@ tags:
     - InChat
 ---
 
+> 本文首发于本博客，如需转载，请申明出处.
+
 ## GitHub项目地址
-
-
 
 ![Image text](https://raw.githubusercontent.com/UncleCatMySelf/img-myself/master/img/inchat/logo.png)
 
