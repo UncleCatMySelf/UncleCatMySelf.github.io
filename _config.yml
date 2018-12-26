@@ -93,3 +93,17 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
+
+
+
+# Friends
+friends: [
+    {
+        title: "SegmentFault 思否 | 猫叔的博客 | Java猫说",
+        href: "https://segmentfault.com/u/myself_5ab9f390c6129"
+    },
+    {
+        title: "慕课网 | 猫叔的博客 | Java猫说",
+        href: "https://www.imooc.com/u/4033529"
+    }
+]
