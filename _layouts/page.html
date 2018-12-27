@@ -189,6 +189,14 @@ layout: default
                             <p>✉️ {{site.email}}</p>
                         {% endif %}
                     </div>
+					<hr><h5><a href="{{'/about/' | prepend: site.baseurl }}">公众号：Java猫说</a></h5>
+					<div class="short-about">
+						{% if site.sidebar-catsay %}
+                            <a href="#">
+                                <img src="{{site.sidebar-catsay}}"/>
+                            </a>
+                        {% endif %}
+					</div>
                 </section>
                 <!-- Friends Blog -->
                 {% if site.friends %}
