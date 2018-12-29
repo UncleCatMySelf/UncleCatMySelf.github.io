@@ -11,7 +11,7 @@ tags:
     - InChat
 ---
 
-> 本文首发于本博客 [猫叔的博客 & MySelf](https://unclecatmyself.github.io/)，转载请申明出处。
+> 本文首发于本博客 [猫叔的博客](https://unclecatmyself.github.io/)，转载请申明出处
 
 ## 前言
 
