@@ -19,6 +19,11 @@ tags:
 
 ![Image Text](https://user-gold-cdn.xitu.io/2018/12/28/167f41f1a5729856?w=344&h=344&f=jpeg&s=8231)
 
+## 视频教程地址
+
+- [第一章 从传统单体架构走向微服务](https://v.qq.com/x/page/a0823ubv3go.html)
+- 待更新
+
 ## 第一章 从传统单体架构走向微服务
 
 Hello，大家好，我是猫叔MySelf，本课程将带领大家入门微服务。
