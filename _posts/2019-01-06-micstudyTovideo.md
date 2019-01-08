@@ -22,7 +22,9 @@ tags:
 ## 视频教程地址
 
 - [第一章 从传统单体架构走向微服务](https://v.qq.com/x/page/a0823ubv3go.html)
+- [第二章 传统单体电商架构](https://v.qq.com/x/page/s08232tui1k.html)
 - 待更新
+
 
 ## 第一章 从传统单体架构走向微服务
 
