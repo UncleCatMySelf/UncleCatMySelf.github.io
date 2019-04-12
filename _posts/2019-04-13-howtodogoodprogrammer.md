@@ -89,17 +89,17 @@ tags:
 
 因此我给自己开创了一个小项目，因为在Github上有InChat项目在，而其项目群也从当初的5个人左右走到现在的90多人，我确实从来未曾想过，这也是我选择分享的原因。
 
-![image](https://github.com/UncleCatMySelf/img_HMStrange/blob/master/img/1.png)
+![image](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/1.png)
 
 其实一开始到时没有这个想法，主要是群里刚好一个朋友最近疯狂暗示我想要做开源，所以我也就突发奇想，想要拉多点人，因为以前做InChat的时候一直都是自己做的，没有多人一起开发。
 
-![image](https://github.com/UncleCatMySelf/img_HMStrange/blob/master/img/2.png)
+![image](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/2.png)
 
 是的，我在3月末也组建了这个项目组，主要还是感谢各位朋友的支持，但是组建一开始的时候就已经给大佬级别的人物讽刺了一波：“开源无需大喊，来者多是看个热闹”。
 
 哈哈哈，这个也是，不过我还是继续组建了起来，因为我想试试通过开源的模式，组织技术人员来一起完成一个项目，很感谢在一天拉起了团队。
 
-![i](https://github.com/UncleCatMySelf/img_HMStrange/blob/master/img/3.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/3.png)
 
 其实接下来就是组织的能力问题了，需要管理制度，需要任务，需要监控。
 
@@ -107,23 +107,23 @@ tags:
 
 我可以设想，这样一个群最现实的情况就是最后只剩下我一个人在继续，甚至我也不在意了。
 
-![i](https://github.com/UncleCatMySelf/img_HMStrange/blob/master/img/4.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/4.png)
 
 我设计表单收集资料，撰写教程要求人员完成，同时你需要组织性。
 
-![i](https://github.com/UncleCatMySelf/img_HMStrange/blob/master/img/5.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/5.png)
 
 这其实很虚，是的，可能只是闹着玩的，可是我还是先敲为敬，因为他们还没有放弃。
 
-![i](https://github.com/UncleCatMySelf/img_HMStrange/blob/master/img/6.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/6.png)
 
 只要有一个人继续推进，我就同袍为战。
 
 了解线上项目管理推进平台。这也是我最近发一些入门教程的原因。
 
-![i](https://github.com/UncleCatMySelf/img_HMStrange/blob/master/img/7.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/7.png)
 
-![i](https://github.com/UncleCatMySelf/img_HMStrange/blob/master/img/8.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/8.png)
 
 
 
@@ -131,13 +131,13 @@ tags:
 
 我们确定了技术栈，产品需求（本人实际工作也兼任PM）。
 
-![i](https://github.com/UncleCatMySelf/img_HMStrange/blob/master/img/9.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/9.png)
 
-![i](https://github.com/UncleCatMySelf/img_HMStrange/blob/master/img/10.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/10.png)
 
-![i](https://github.com/UncleCatMySelf/img_HMStrange/blob/master/img/11.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/11.png)
 
-![i](https://github.com/UncleCatMySelf/img_HMStrange/blob/master/img/12.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/12.png)
 
 
 其实说到这里，我想表达的是，不管你做过什么项目，你一直以来应该接触过项目中那个深深吸引你的程序员，你过程中应该向什么方向学习，而不是单纯完成业务。
