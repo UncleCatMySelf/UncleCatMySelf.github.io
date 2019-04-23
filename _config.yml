@@ -100,11 +100,15 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "SegmentFault 思否 | 猫叔的博客 | Java猫说",
+        title: "SegmentFault思否个人主页",
         href: "https://segmentfault.com/u/myself_5ab9f390c6129"
     },
     {
-        title: "慕课网 | 猫叔的博客 | Java猫说",
+        title: "慕课网个人主页",
         href: "https://www.imooc.com/u/4033529"
+    },
+    {
+        title: "掘金个人主页",
+        href: "https://juejin.im/user/5c25e9b15188256d0e5afd5e"
     }
 ]
