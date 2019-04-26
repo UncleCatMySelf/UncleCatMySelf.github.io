@@ -20,7 +20,7 @@ sidebar-catsay: /img/logo.jpg
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-# zhihu_username:     UncleCatMySelf
+zhihu_username:     UncleCatMySelf
 github_username:    UncleCatMySelf
 # facebook_username:  baiying.qiu.7
 jianshu_username:   6d52ce98e060
@@ -110,5 +110,13 @@ friends: [
     {
         title: "掘金个人主页",
         href: "https://juejin.im/user/5c25e9b15188256d0e5afd5e"
+    },
+    {
+        title: "博客园个人主页",
+        href: "https://www.cnblogs.com/UncleCatMySelf/"
+    },
+    {
+        title: "知乎个人主页",
+        href: "https://www.zhihu.com/people/UncleCatMySelf/activities"
     }
 ]
