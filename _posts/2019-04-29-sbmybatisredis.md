@@ -142,7 +142,7 @@ docker run ‐d ‐p 8080：8080
 #### 1.5 使用docker 安装 redis
 - 1.5.1 搜索镜像
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/2.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/2.png)
 
 - 1.5.2 拉取镜像
 ```js
@@ -150,7 +150,7 @@ docker pull docker.io/redis
 ```
 - 1.5.3 查看镜像
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/4.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/4.png)
 
 - 1.5.4 运行镜像
 ```js
@@ -167,7 +167,7 @@ docker ps
 下载地址：https://redisdesktop.com/download
 设置连接名、主机名字（就是我们前面输入ifconfig查看得到的ip）、端口号（暴露的那个端口号就是用那个端口号，默认为6379）
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/3.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/3.png)
 
 点击Tes tConnection 显示 successful 点击 OK 
 更多关于redis的操作命令请查看官网：
@@ -179,70 +179,70 @@ http://www.redis.cn/
 
 - 点击下一步
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/5.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/5.png)
 
 - 输入相应的Group、Artifact(不会的请先学习IDEA)
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/6.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/6.png)
 
 - 选择相应的模块，如右下方红框所示
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/7.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/7.png)
 
 - 输入项目name和项目address
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/8.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/8.png)
 
 #### 2.2、创建完成后，可以看到pom文件中引入了相应的starter
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/9.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/9.png)
 
 #### 2.3、在IDEA中配置mysql数据库
 
 - 2.3.1配置mysql
 新建数据库student，新建表student
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/10.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/10.png)
 
 > 注：关于如何安装mysql、navicat以及如何使用请自行百度
 
 - 2.3.2在项目的目录结构中找到application.properties或者新建一个application.yml(关于yml的语法请自行百度)
 url的配置规则请百度，输入自己数据库的用户名和密码
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/11.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/11.png)
 
 #### 2.4、编码：新建entity实体类、service、service的实现类、以及mapper接口，然后在resource目录下建立对应的mapper以及mabatis的配置文件
 
 - 2.4.1项目目录结构如下：
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/12.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/12.png)
 
 - 2.4.2 entity代码如下
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/13.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/13.png)
 
 
 - 2.4.3 Service代码如下
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/14.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/14.png)
 
 
 - 2.4.4 Service实现方法如下
 > 注意：在实现方法上加 @Service注解
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/15.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/15.png)
 
 
 - 2.4.5 mapper如下
 > 注意:在接口上方加@mapper注解
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/16.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/16.png)
 
 
 - 2.4.6 Controller如下
 > 注意：加@RestConroller注解
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/17.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/17.png)
 
 
 - 2.4.7 mapper映射文件如下
@@ -250,19 +250,19 @@ url的配置规则请百度，输入自己数据库的用户名和密码
 http://www.mybatis.org/mybatis-3/zh/sqlmap-xml.html
 resource/mybatis/mapper/StudentMapper.xml(此文件的路径)
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/18.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/18.png)
 
 
 - 2.4.8 mybatias配置文件（这里没有作任何配置，但是这个文件一定要有）
 resource/mybatis/mybatis-config.xml
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/19.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/19.png)
 
 
 - 2.4.9 在application.properties配置mybatis
 这两个配置是核心，其余配置可参考官方文档
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/20.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/20.png)
 
 
 - 2.4.10 在student表中插入相关数据
@@ -272,36 +272,36 @@ resource/mybatis/mybatis-config.xml
 结果如下：
 此处用的google测试，也可以使用其他接口测试工具
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/21.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/21.png)
 
 
 ### 3、springboot整合redis
 
 #### 3.1 在pom文件中引入redis 的坐标
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/22.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/22.png)
 
 
 #### 3.2 在application.properties或者是application.yml中配置redis,host就是你的服务器的ip
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/23.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/23.png)
 
 
 #### 3.3 在springboot的启动类开启缓存注解
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/24.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/24.png)
 
 
 #### 3.4 新建redisConfig类配置redis
 
 不要忘记加@Configuration，两个bean都是为了改变序列化的机制
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/25.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/25.png)
 
 
 #### 3.5 在service的实现类上开启注解
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/26.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/26.png)
 
 
 #### 3.6 测试结果，
@@ -309,7 +309,7 @@ resource/mybatis/mybatis-config.xml
 - 3.6.1 先开启日志打印
 红框内是mapper的相对路径
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/27.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/27.png)
 
 
 - 3.6.2 第一次在浏览器请求会发现，控制台打印了sql语句
@@ -321,12 +321,12 @@ resource/mybatis/mybatis-config.xml
 
 此时，student对象已被缓存到了redis中
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/28.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/28.png)
 
 
 - 3.6.2 第二次从浏览器发起请求，发现控制台没有打印sql日志，说明缓存成功，使用RedisDesktopManager查看数据库
 
-[i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/29.png)
+![i](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/tian/29.png)
 
 
 #### 9、项目下载地址
