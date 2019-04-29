@@ -331,7 +331,7 @@ resource/mybatis/mybatis-config.xml
 
 #### 9、项目下载地址
 
-欢迎到HMStrange项目进行下载：https://github.com/UncleCatMySelf/HMStrange/tree/master/doc/demo/redisdemo
+欢迎到HMStrange项目进行下载：https://github.com/UncleCatMySelf/HMStrange/tree/master/doc/demo/springboot-redis
 
 #### 公众号：Java猫说
 
