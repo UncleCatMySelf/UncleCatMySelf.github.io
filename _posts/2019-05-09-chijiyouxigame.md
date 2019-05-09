@@ -1,8 +1,8 @@
 ---
 layout:       post
-title:        同样是程序员，他转行在新加坡卖鱼走向巅峰！
-subtitle:     Github
-date:         2019-05-06
+title:        “吃鸡”吗？《和平精英》来了，感觉不一般
+subtitle:     游戏
+date:         2019-05-09
 author:       MySelf 猫叔
 header-img:   img/ship.jpg
 catelog:      true
