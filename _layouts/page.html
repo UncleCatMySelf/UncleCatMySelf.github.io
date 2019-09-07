@@ -196,6 +196,20 @@ layout: default
                                 <img src="{{site.sidebar-catsay}}"/>
                             </a>
                         {% endif %}
+                        {% if site.sidebar-about-java-description %}
+                            <p>{{site.sidebar-about-java-description}}</p>
+                        {% endif %}
+					</div>
+                    <hr><h5><a href="{{'/about/' | prepend: site.baseurl }}">公众号：产品猫说</a></h5>
+					<div class="short-about">
+						{% if site.sidebar-pmcatsay %}
+                            <a href="#">
+                                <img src="{{site.sidebar-pmcatsay}}"/>
+                            </a>
+                        {% endif %}
+                        {% if site.sidebar-about-pm-description %}
+                            <p>{{site.sidebar-about-pm-description}}</p>
+                        {% endif %}
 					</div>
                 </section>
                 <!-- Friends Blog -->
