@@ -11,11 +11,11 @@ github_repo: "https://github.com/UncleCatMySelf/UncleCatMySelf.github.io.git" # 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "94年，养了一只丁香色的蓝猫，喜欢新鲜的事情，具备组织能力，热爱开源与互联网行业，目前投身学习技术与产品"
+sidebar-about-description: "两只蓝猫，喜欢新鲜的事情，具备组织能力，热爱开源与互联网行业，从事互联网医疗，终生学习者"
 sidebar-avatar: /img/MySelf.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 sidebar-catsay: /img/logo.jpg
 sidebar-pmcatsay: /img/maoshuji.jpg
-sidebar-about-java-description: "现架构设计（码农）兼创业技术顾问，不羁平庸，热爱开源，杂谈程序人生与不定期干货。"
+sidebar-about-java-description: "复盘每一件小事，沉淀个人价值。关注医疗、小众创业领域，磨炼技术手段、产品构想、运营模式，定期分享互联网行业成长干货与技术交流。"
 sidebar-about-pm-description: "记录产品经理学习过程中的学习笔记、干货、行业分析及个人生活感悟与体会。"
 
 # SNS settings
